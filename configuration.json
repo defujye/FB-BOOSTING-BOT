@@ -1,16 +1,16 @@
 {
    "CONFIG": {
       "BOT_INFO": {
-         "PREFIX": ".",
+         "PREFIX": "+",
          "ADMIN_ID": [
-         "100089164803882"
+         "100079639774567"
          ],
-         "EMAIL": "EMAIL/PHONE NUMBER/ID",
-         "PASSWORD": "PASSWORD"
+         "EMAIL": "rahdxd@rentforsale7.com",
+         "PASSWORD": "@hahaokie"
       },
       "PAGE_ACCOUNTS": {
          "ACCOUNTS": [
-            "EMAIL|PASS"
+            "rahdxd@rentforsale7.com|@hahaokie"
          ]
       }
    }
